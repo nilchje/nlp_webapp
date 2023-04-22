@@ -103,7 +103,8 @@ def main():
 
 	else:
 		st.subheader("About")
-		st.write("My name is seyi ogunmusire ")
+		st.write("My name is Swapnanil.")
+		st.write("Thank You for visiting !")
 		add_page_visited_details("About",datetime.now())
 
 
