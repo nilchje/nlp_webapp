@@ -1,4 +1,4 @@
-# nlp_webapp
+# NLP WEB APP
 An NLP web app that detects emotion from text.
 
 
